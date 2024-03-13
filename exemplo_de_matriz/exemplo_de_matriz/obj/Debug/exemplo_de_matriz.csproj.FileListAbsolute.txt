@@ -1,0 +1,7 @@
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\bin\Debug\exemplo_de_matriz.exe.config
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\bin\Debug\exemplo_de_matriz.exe
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\bin\Debug\exemplo_de_matriz.pdb
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\obj\Debug\exemplo_de_matriz.csproj.AssemblyReference.cache
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\obj\Debug\exemplo_de_matriz.csproj.CoreCompileInputs.cache
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\obj\Debug\exemplo_de_matriz.exe
+C:\Users\2ds.BGLAB\Desktop\João A e Lucas H\exemplo_de_matriz\exemplo_de_matriz\obj\Debug\exemplo_de_matriz.pdb
