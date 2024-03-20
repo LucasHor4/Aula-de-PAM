@@ -33,7 +33,7 @@
 ⦁	Aqui você pode criar uma nova pasta dentro do github.
 ![image](https://github.com/LucasHor4/Aula-de-PAM/assets/150953092/b87a3486-4e77-4c2d-84be-9d66b288d3de)
  
-⦁	Clique em "<Code>" e copie o link de HTTPS.
+⦁	Clique em "Code" e copie o link de HTTPS.
 ![image](https://github.com/LucasHor4/Aula-de-PAM/assets/150953092/bd7dfed7-0a74-4d7c-bb92-3e5b386c3f72) 
 
 ⦁	Caso você esteja em outro computador , crie uma nova pasta e use o gitbash nela, após isso use o comando "git clone (Link que copiou do github)", isso vai permitir que você altere uma copia do projeto.
@@ -41,3 +41,13 @@
 	 
 ⦁	Para colocar o projeto alterado no github use o comando " git push ".
 ![image](https://github.com/LucasHor4/Aula-de-PAM/assets/150953092/b9b3577f-b09d-4833-9fab-5a1cb1ef15e9)
+
+•Para adicionar o readme clique em "Adicionar readme"
+
+•Vá em issues
+
+•Para adicionar uma imagem copie ela ou arraste ela 
+
+•Clique em add issue
+
+•Clique em quote copy e cole no readme para adicionar a imagem
