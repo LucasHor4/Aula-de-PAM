@@ -2,7 +2,7 @@
 
 <h1>Relatório</h1>
 
-<H2>>Pegamos um projeto já existente, colocamos no github e dentro do proprio github modificamos o memso, puxamos o projeto do github para o computador e adicionamos um novo commit e recolocamos no github</H2>
+<H2>Pegamos um projeto já existente, colocamos no github e dentro do proprio github modificamos o memso, puxamos o projeto do github para o computador e adicionamos um novo commit e recolocamos no github</H2>
 
 ⦁	Clique com botão direito na pasta do seu projeto e logo em seguida em "Open git bash here".
  ![image](https://github.com/LucasHor4/Aula-de-PAM/assets/150953092/eeb51b86-9e7b-42de-ba6a-a80abfbc8d97)
