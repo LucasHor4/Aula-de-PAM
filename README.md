@@ -1,4 +1,4 @@
-<h3>Integrantes: João Átila, Lucas Hora e Thiago</h3>
+<h3>Integrantes: João Attila, Lucas Hora e Thiago</h3>
 
 <h1>Relatório</h1>
 
